@@ -1,0 +1,15 @@
+{
+    "name": "mliriano/lighthouse-ci-server",
+    "autoload": {
+        "psr-4": {
+            "Mliriano\\LighthouseCiServer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "migueliriano",
+            "email": "miguel.angel@x-team.com"
+        }
+    ],
+    "require": {}
+}
